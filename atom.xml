@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Inpirea Blog]]></title>
+  <link href="http://marcinstachyra.github.com/atom.xml" rel="self"/>
+  <link href="http://marcinstachyra.github.com/"/>
+  <updated>2013-03-20T23:00:39+01:00</updated>
+  <id>http://marcinstachyra.github.com/</id>
+  <author>
+    <name><![CDATA[Marcin Stachyra]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

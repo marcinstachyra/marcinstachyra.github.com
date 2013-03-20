@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://marcinstachyra.github.com/sitemap.xml 
