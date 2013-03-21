@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: octopress | Inspirea Blog]]></title>
+  <title><![CDATA[Category: octopress | Inspirea]]></title>
   <link href="http://marcinstachyra.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://marcinstachyra.github.com/"/>
-  <updated>2013-03-21T23:34:03+01:00</updated>
+  <updated>2013-03-21T23:59:55+01:00</updated>
   <id>http://marcinstachyra.github.com/</id>
   <author>
-    <name><![CDATA[Inspirea Media Creations]]></name>
+    <name><![CDATA[Inspirea]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
