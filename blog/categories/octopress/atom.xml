@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Inspirea Blog]]></title>
+  <link href="http://marcinstachyra.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://marcinstachyra.github.com/"/>
+  <updated>2013-03-21T02:16:53+01:00</updated>
+  <id>http://marcinstachyra.github.com/</id>
+  <author>
+    <name><![CDATA[Inspirea Media Creations]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress challange: Code snippets]]></title>
+    <link href="http://marcinstachyra.github.com/blog/2013/03/21/octopress-challange-code-snippets/"/>
+    <updated>2013-03-21T00:40:00+01:00</updated>
+    <id>http://marcinstachyra.github.com/blog/2013/03/21/octopress-challange-code-snippets</id>
+    <content type="html"><![CDATA[<p>This time I'll try to post some code.</p>
+
+<!-- more -->
+
+
+<p>Example 1
+<div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>title for example 1 </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="o">/&lt;</span><span class="n">em</span><span class="o">&gt;*</span>
+</span><span class='line'><span class="o">*</span> <span class="nd">@author</span> <span class="n">Some</span> <span class="n">Name</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">em</span><span class="o">&gt;/</span>
+</span><span class='line'><span class="nd">@Annotation</span> <span class="n">wow</span>
+</span><span class='line'><span class="kd">class</span> <span class="nf">SampleClass</span><span class="o">(){&lt;/</span><span class="n">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span><span class="c1">// some not important comment</span>
+</span><span class='line'><span class="n">String</span> <span class="n">s</span> <span class="o">=</span> <span class="s">&quot;string&quot;</span><span class="o">;</span>
+</span><span class='line'><span class="kt">char</span> <span class="n">c</span> <span class="o">=</span> <span class="sc">&#39;q&#39;</span><span class="o">;</span>
+</span><span class='line'><span class="kt">int</span> <span class="n">x</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span>
+</span><span class='line'><span class="cm">/*</span>
+</span><span class='line'><span class="cm"> * other comment</span>
+</span><span class='line'><span class="cm"> */</span>
+</span><span class='line'><span class="o">&lt;/</span><span class="n">code</span><span class="o">&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">p</span><span class="o">&gt;}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Example 2
+<div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Awesome code snippet</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress challange: Hello world]]></title>
+    <link href="http://marcinstachyra.github.com/blog/2013/03/20/octopress-challange-hello-world/"/>
+    <updated>2013-03-20T23:50:00+01:00</updated>
+    <id>http://marcinstachyra.github.com/blog/2013/03/20/octopress-challange-hello-world</id>
+    <content type="html"><![CDATA[<p>I've made it! Finally the blog is up and running.<!-- more --> I'm going to take a bit of time to put here some ideas and discoveries I dig as a software  developer. Probably Java stuff. Maybe a little about events on my personal life. So far I have to get into Octopress and Ruby to smarten things up. Wish me luck. Till next time.</p>
+]]></content>
+  </entry>
+  
+</feed>
